@@ -7,5 +7,5 @@ Add the package to your manifest.json file located under the Packages folder.
 
 ```
   "dependencies": {
-    "com.thirty1degrees.screennavigation": "git@github.com:Thirty1Degrees/Thirty1Degrees.UnityPackages.ScreenNavigation.git#v1.0.0",
+    "com.thirty1degrees.screennavigation": "https://github.com/31degrees/Thirty1Degrees.UnityPackages.ScreenNavigation.git#v1.0.0",
 ```
